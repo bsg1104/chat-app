@@ -16,8 +16,8 @@ Make sure you have Node.js and npm installed.
 
 Clone or Download the repository
 
-$ git clone https://github.com/wmuza/SocketIO-Chat-App.git
-$ cd SocketIO-Chat-App
+$ git clone https://github.com/bsg1104/Chat-app.git
+$ cd Chat-App
 Install Dependencies
 
 $ npm install
